@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1606290382 source:d:\documents\esg\learncpp101\semprojectbuild2\main.cpp
+	<windows.h>
+	<windowsx.h>
+	<iostream>
+	<tchar.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
+1670743686 source:c:\users\sthembiso musana\documents\programming\c-and-cpp\learncpp101\semprojectbuild2 build 1.0.0.4\main.cpp
+	<windows.h>
+	<windowsx.h>
+	<iostream>
+	<tchar.h>
+	<stdlib.h>
+	<stdio.h>
+	<time.h>
+
